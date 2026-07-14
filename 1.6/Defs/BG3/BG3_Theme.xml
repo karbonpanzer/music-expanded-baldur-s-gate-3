@@ -1,9 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
     <MusicExpanded.ThemeDef>
         <defName>ME_BG3</defName>
         <label>Music Expanded: Baldur's Gate 3</label>
 		<iconPath>UI/Icons/BG3</iconPath>
-        <description>Contains Tracks from the newly released RPG and dating simulator from Larian Studio's Baldur's Gate 3.</description>
+        <description>Contains tracks from Larian Studios' Baldur's Gate 3. Fifteen combat tracks play whenever the map is in danger; the rest hold the peacetime rotation. Includes main menu and credits themes.</description>
 		<tracks>			
 			<li>ME_BG3_A_Threat_From_Nether_Years</li>
 			<li>ME_BG3_Bard_Dance</li>
