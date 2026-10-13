@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_BG3</defName>
+        <label>Music Expanded: Baldur's Gate 3</label>
+		<iconPath>UI/Icons/BG3</iconPath>
+        <description>Contains tracks from Larian Studios' Baldur's Gate 3. Fifteen combat tracks play whenever the map is in danger; the rest hold the peacetime rotation. Includes main menu and credits themes.</description>
+		<tracks>			
+			<li>ME_BG3_A_Threat_From_Nether_Years</li>
+			<li>ME_BG3_Bard_Dance</li>
+			<li>ME_BG3_Cunning_Cruel_Crits</li>
+			<li>ME_BG3_Down_By_The_River</li>
+			<li>ME_BG3_Dream_Walk_Instrumental</li>
+			<li>ME_BG3_Elder_Brain</li>
+			<li>ME_BG3_Forging_The_Fate</li>
+			<li>ME_BG3_Gather_Your_Allies</li>
+			<li>ME_BG3_Harpy_Song</li>
+			<li>ME_BG3_Last_Light</li>
+			<li>ME_BG3_Last_Shelter</li>
+			<li>ME_BG3_Lead_Your_Fights</li>
+			<li>ME_BG3_Lead_Your_Way</li>
+			<li>ME_BG3_Mind_Flayer_Theme</li>
+			<li>ME_BG3_Nightsong</li>
+			<li>ME_BG3_Nine_Blades</li>
+			<li>ME_BG3_Quest_For_A_Cure</li>
+			<li>ME_BG3_Raphaels_Final_Act</li>
+			<li>ME_BG3_Shadows_Curse_And_Death</li>
+			<li>ME_BG3_Sixteen_Strikes</li>
+			<li>ME_BG3_Song_Of_Balduran</li>
+			<li>ME_BG3_Surgery_Of_A_Hope</li>
+			<li>ME_BG3_The_Colors_Of_Underdark</li>
+			<li>ME_BG3_The_Cult_Of_The_Absolute</li>
+			<li>ME_BG3_The_Grand_Design_Requiem</li>
+			<li>ME_BG3_The_Legacy_Of_Bhaal</li>
+			<li>ME_BG3_The_Odds_Are_Cast_Anew</li>
+			<li>ME_BG3_The_Road_To_Baldurs_Gate</li>
+			<li>ME_BG3_Twisted_Force</li>
+			
+			<li>ME_BG3_Weeping_Dawn</li>
+			<li>ME_BG3_Who_Are_You</li>
+
+			<li>ME_BG3_I_Want_To_Live_Classical</li>
+			<li>ME_BG3_I_Want_To_Live_Instrumental</li>
+			<li>ME_BG3_I_Want_To_Live</li>			
+
+			<li>ME_BG3_Main_Theme_1</li>
+			<li>ME_BG3_Main_Theme_2</li>
+			<li>ME_BG3_Main_Theme_3</li>			
+
+			<li>ME_BG3_Old_Time_Battles_1</li>
+			<li>ME_BG3_Old_Time_Battles_2</li>
+			<li>ME_BG3_Old_Time_Battles_Bard</li>
+
+			<li>ME_BG3_The_Power_Choral</li>
+			<li>ME_BG3_The_Power_Orchestral</li>
+			<li>ME_BG3_The_Power_Credits</li>			
+		</tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>

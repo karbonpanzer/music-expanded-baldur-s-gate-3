@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Bard Dance</label>
+		<defName>ME_BG3_Bard_Dance</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Bard Dance</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Down By The River</label>
+		<defName>ME_BG3_Down_By_The_River</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Down By The River</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Dream Walk (Instrumental)</label>
+		<defName>ME_BG3_Dream_Walk_Instrumental</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Dream Walk (Instrumental)</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Harpy Song</label>
+		<defName>ME_BG3_Harpy_Song</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Harpy Song</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Last Light</label>
+		<defName>ME_BG3_Last_Light</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Last Light</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Last Shelter</label>
+		<defName>ME_BG3_Last_Shelter</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Last Shelter</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Lead Your Way</label>
+		<defName>ME_BG3_Lead_Your_Way</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Lead Your Way</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Nightsong</label>
+		<defName>ME_BG3_Nightsong</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Nightsong</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Quest For A Cure</label>
+		<defName>ME_BG3_Quest_For_A_Cure</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Quest For A Cure</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Shadows, Curse and Death</label>
+		<defName>ME_BG3_Shadows_Curse_And_Death</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Shadows, Curse And Death</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Song Of Balduran</label>
+		<defName>ME_BG3_Song_Of_Balduran</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Song Of Balduran</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Surgery Of A Hope</label>
+		<defName>ME_BG3_Surgery_Of_A_Hope</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Surgery Of A Hope</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - The Colors Of Underdark</label>
+		<defName>ME_BG3_The_Colors_Of_Underdark</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- The Colors Of Underdark</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - The Cult Of The Absolute</label>
+		<defName>ME_BG3_The_Cult_Of_The_Absolute</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- The Cult Of The Absolute</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - The Grand Design (Requiem)</label>
+		<defName>ME_BG3_The_Grand_Design_Requiem</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- The Grand Design (Requiem)</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - The Road To Baldur's Gate</label>
+		<defName>ME_BG3_The_Road_To_Baldurs_Gate</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- The Road To Baldur's Gate</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Weeping Dawn</label>
+		<defName>ME_BG3_Weeping_Dawn</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Weeping Dawn</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Who Are You</label>
+		<defName>ME_BG3_Who_Are_You</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Who Are You</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - I Want To Live (Classical)</label>
+		<defName>ME_BG3_I_Want_To_Live_Classical</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- I Want To Live (Classical)</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - I Want To Live (Instrumental)</label>
+		<defName>ME_BG3_I_Want_To_Live_Instrumental</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- I Want To Live (Instrumental)</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - I Want To Live</label>
+		<defName>ME_BG3_I_Want_To_Live</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- I Want To Live</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Old Time Battles (Bard)</label>
+		<defName>ME_BG3_Old_Time_Battles_Bard</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Old Time Battles (Bard)</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>							
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - The Power (Choral)</label>
+		<defName>ME_BG3_The_Power_Choral</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- The Power (Choral)</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - The Power (Orchestral)</label>
+		<defName>ME_BG3_The_Power_Orchestral</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- The Power (Orchestral)</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+	</MusicExpanded.TrackDef>
+
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Lead Your Fights</label>
+		<defName>ME_BG3_Lead_Your_Fights</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Lead Your Fights</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Old Time Battles Part I</label>
+		<defName>ME_BG3_Old_Time_Battles_1</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Old Time Battles Part I</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - The Odds Are Cast Anew</label>
+		<defName>ME_BG3_The_Odds_Are_Cast_Anew</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- The Odds Are Cast Anew</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Twisted Force</label>
+		<defName>ME_BG3_Twisted_Force</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Twisted Force</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>
+
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Cunning Cruel Crits</label>
+		<defName>ME_BG3_Cunning_Cruel_Crits</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Cunning Cruel Crits</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Nine Blades</label>
+		<defName>ME_BG3_Nine_Blades</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Nine Blades</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Old Time Battles Part II</label>
+		<defName>ME_BG3_Old_Time_Battles_2</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Old Time Battles Part II</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Sixteen Strikes</label>
+		<defName>ME_BG3_Sixteen_Strikes</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Sixteen Strikes</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>
+
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Forging The Fate</label>
+		<defName>ME_BG3_Forging_The_Fate</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Forging The Fate</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Gather Your Allies!</label>
+		<defName>ME_BG3_Gather_Your_Allies</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Gather Your Allies!</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Mind Flayer Theme</label>
+		<defName>ME_BG3_Mind_Flayer_Theme</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Mind Flayer Theme</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Elder Brain</label>
+		<defName>ME_BG3_Elder_Brain</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Elder Brain</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>
+
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - A Threat From Nether Years</label>
+		<defName>ME_BG3_A_Threat_From_Nether_Years</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- A Threat From Nether Years</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>	
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Raphael's Final Act</label>
+		<defName>ME_BG3_Raphaels_Final_Act</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Raphael's Final Act</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - The Legacy Of Bhaal</label>
+		<defName>ME_BG3_The_Legacy_Of_Bhaal</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- The Legacy Of Bhaal</clipPath>
+		<vanillaLogic>true</vanillaLogic>
+		<tense>true</tense>
+	</MusicExpanded.TrackDef>
+
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Main Theme Part I</label>
+		<defName>ME_BG3_Main_Theme_1</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Main Theme Part I</clipPath>
+		<cue>MainMenu</cue>
+        <playOnMap>false</playOnMap>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Main Theme Part II</label>
+		<defName>ME_BG3_Main_Theme_2</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Main Theme Part II</clipPath>
+		<cue>MainMenu</cue>
+        <playOnMap>false</playOnMap>			
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - Main Theme Part III</label>
+		<defName>ME_BG3_Main_Theme_3</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- Main Theme Part III</clipPath>
+		<cue>MainMenu</cue>
+        <playOnMap>false</playOnMap>			
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Baldur's Gate 3 - The Power (Credits)</label>
+		<defName>ME_BG3_The_Power_Credits</defName>
+		<clipPath>MusicExpanded/BG3/Baldur's Gate 3- The Power (Credits)</clipPath>
+		<cue>Credits</cue>
+        <playOnMap>false</playOnMap>			
+	</MusicExpanded.TrackDef>			
+</Defs>
